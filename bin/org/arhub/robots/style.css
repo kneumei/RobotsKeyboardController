@@ -1,0 +1,17 @@
+
+.key{
+    -fx-border-radius: 3 3 3 3;
+    -fx-border-color: black;
+    -fx-border-width: 1px;
+    -fx-border-style: solid outside;
+    -fx-padding: 10px;
+    -fx-font-size: 16px;
+    -fx-font-family: monospace;
+
+    
+}
+
+.box{
+    -fx-padding: 10px;
+    -fx-spacing: 10px
+}
